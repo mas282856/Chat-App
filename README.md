@@ -24,7 +24,7 @@
 
 ## 担当箇所
 - ロビー画面
-  - Assets/Scripts/HomeView/
+  - [Assets/Scripts/HomeView/](https://github.com/mas282856/Chat-App/tree/main/Assets/Scripts/HomeView)
 - チャット画面
   - Assets/Scripts/ChatView/
 - その他

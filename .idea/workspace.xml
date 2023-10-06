@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56aa28e2-57e1-4d81-8150-dc65a367a097" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Adaptive Performance/AdaptivePerformanceGeneralSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/AdaptivePerformanceGeneralSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Image/history_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Image/history_FILL0_wght400_GRAD0_opsz24.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Image/timer_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Image/timer_FILL0_wght400_GRAD0_opsz24.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Over View.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Over View.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Over View.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Over View.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Panel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Panel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ChatScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ChatScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scloll View.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scloll View.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tag.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tag.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WLN7PZhga41mAVGsUO6ga6IGP0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/masa7/OneDrive/デスクトップ/ChatApp"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56aa28e2-57e1-4d81-8150-dc65a367a097" name="Changes" comment="" />
+      <created>1696507732986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696507732986</updated>
+    </task>
+    <servers />
+  </component>
+</project>

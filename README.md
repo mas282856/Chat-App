@@ -29,3 +29,6 @@
   - [Assets/Scripts/ChatView/](https://github.com/mas282856/Chat-App/tree/main/Assets/Scripts/ChatView)
 - その他
   - [Assets/Scripts/AWS/DDBChatChatOverview.cs (AWS SDK for .NETによるDynamoDBのデータ操作)](https://github.com/mas282856/Chat-App/tree/main/Assets/Scripts/SQLite)
+
+## アプリダウンロード
+[GoogleDriveにのリンクに飛びます](https://drive.google.com/drive/folders/1fk2AZoB4SAhjzGPJixJF9-jvGRpRthkY?usp=drive_link)

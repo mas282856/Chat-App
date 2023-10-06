@@ -26,6 +26,6 @@
 - ロビー画面
   - [Assets/Scripts/HomeView/](https://github.com/mas282856/Chat-App/tree/main/Assets/Scripts/HomeView)
 - チャット画面
-  - Assets/Scripts/ChatView/
+  - [Assets/Scripts/ChatView/](https://github.com/mas282856/Chat-App/tree/main/Assets/Scripts/ChatView)
 - その他
-  - Assets/Scripts/AWS/DDBChatChatOverview.cs (AWS SDK for .NETによるDynamoDBのデータ操作)
+  - [Assets/Scripts/AWS/DDBChatChatOverview.cs (AWS SDK for .NETによるDynamoDBのデータ操作)](https://github.com/mas282856/Chat-App/tree/main/Assets/Scripts/SQLite)

@@ -31,4 +31,4 @@
   - [Assets/Scripts/AWS/DDBChatChatOverview.cs (AWS SDK for .NETによるDynamoDBのデータ操作)](https://github.com/mas282856/Chat-App/tree/main/Assets/Scripts/SQLite)
 
 ## アプリダウンロード
-[GoogleDriveにのリンクに飛びます]()
+GoogleDriveにのリンクに飛びます

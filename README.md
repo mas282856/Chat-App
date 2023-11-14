@@ -25,6 +25,9 @@
 	- 制限時間の表示
   - タイトルの設定
 
+## AWS構成図
+![image](https://github.com/mas282856/Chat-App/assets/134497959/d807d6e1-5c72-465f-acce-67ccef2304e8)
+
 ## 担当箇所
 - ロビー画面
   - [Assets/Scripts/HomeView/](https://github.com/mas282856/Chat-App/tree/main/Assets/Scripts/HomeView)

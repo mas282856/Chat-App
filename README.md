@@ -1,7 +1,10 @@
 # Chat-App
 ## 概要
 - 趣味マッチングアプリ
-- 狙い…多くの人が見る、面白いコンテンツを生み出しやすい環境を作る
+- 狙い
+  - 趣味を持つ人々がつながり楽しさや情報を共有できるプラットフォームを提供すること
+  - チャットでの交流を通じて面白いアイディアが生まれる環境を作ること
+
 
 ## 使用技術
 - Unity 2022.3.5f1
@@ -30,5 +33,4 @@
 - その他
   - [Assets/Scripts/AWS/DDBChatChatOverview.cs (AWS SDK for .NETによるDynamoDBのデータ操作)](https://github.com/mas282856/Chat-App/tree/main/Assets/Scripts/SQLite)
 
-## アプリダウンロード
-GoogleDriveにのリンクに飛びます
+

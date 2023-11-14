@@ -26,7 +26,7 @@
   - タイトルの設定
 
 ## AWS構成図
-![image](https://github.com/mas282856/Chat-App/assets/134497959/d807d6e1-5c72-465f-acce-67ccef2304e8)
+![image](https://github.com/mas282856/Chat-App/assets/134497959/cd19e51c-97f2-467d-a332-e46f2c409d9c)
 
 ## 担当箇所
 - ロビー画面

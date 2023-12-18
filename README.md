@@ -24,6 +24,7 @@
   - テキスト送る
 	- 制限時間の表示
   - タイトルの設定
+
 ![image](https://github.com/mas282856/Chat-App/assets/134497959/871dd5aa-2c15-45d3-9b34-5a6ffab3f9e9)
 
 
